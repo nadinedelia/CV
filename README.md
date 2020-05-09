@@ -13,13 +13,20 @@ ENTP
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
+
+#### Team work
+
+
+#### Leadership
+
+
 #### Thinking outside the box
 
 - Experience
 - Achievements
 - Evidence
 
-#### Interdisciplinary
+#### Interdisciplinary & Adaptability
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -67,3 +74,4 @@ BA(Hons) Media Science and Economics
 - Yoga and Fitness (I'm a certified Personal Trainer and Yoga Teacher)
 - Bungee Jumping & Adventure Travel
 - Art & Design
+- learning new languages (so far I speak 4.5 and hold the TEFL teaching diploma)
