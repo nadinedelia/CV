@@ -1,18 +1,25 @@
-## Your Name
+## Nadine Loepfe
 
-A sentence about who and what you are. Then a sentence about what you've achieved. And then a sentence about what exictes you about tech.
+(notes)
+Professional Dancer turned Junior Dev.
+Student of Makers Academy.
+Creative. 
+Polyglot. 
+ENTP 
+-> takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t. Aalways looking forward to solving complex problems.
+
 
 ## Skills
 
 Consider skills relevent to software development. Then consider your best skills. Pick 2-4 skills and write a short descriptive paragraph for each one. You should demonstrate how capable you are at this skill with examples.
 
-#### This Skill
+#### Thinking outside the box
 
 - Experience
 - Achievements
 - Evidence
 
-#### Another Skill
+#### Interdisciplinary
 
 Descriptive paragraph of how capable you are at this skill and, if relevant, how it has developed.
 
@@ -23,22 +30,27 @@ Descriptive paragraph of how capable you are at this skill and, if relevant, how
 
 ## Education
 
-#### Makers Academy (start_date to end_date)
+#### Makers Academy (April 2020 – August 2020)
 
 - OOP, TDD, MVC, DDD
 - Agile/XP
 - Ruby, Rails, JavaScript
 - RSpec, Jasmine
 
-#### Your University / College (start_date to end_date)
+#### London Studio Centre (2014 – 2017)
 
-- Subject, any specialisms
-- Grade
-- Other cool stuff
+- BA(Hons) Theatre Dance
+- 2.1
 
-#### Any other qualifications
+One of the most prestigious dance universities in the whole of Europe. 
+While studiying there, I participated in various outercurriculum activities and projects. 
+I was chosen in the second year of my degree as one of only 4 students to collaborate on a weekly basis with Central Saint Martins for a project called Design for Dance.
+I took this as an opportunity to choreograph a piece based on geometrical shapes and algorithms, therefore merging my fascination of mathematics with the creative arts. Following this path, I decided in my 3rd year to dedicate my dissertation piece to chemical reactions and formulas.
 
-That in some arguable way make you a better software developer or well-rounded person
+#### University of Zurich, Switzerland (2013 – 2014)
+
+BA(Hons) Media Science and Economics
+
 
 ## Experience
 
@@ -52,4 +64,6 @@ That in some arguable way make you a better software developer or well-rounded p
 
 ## Hobbies
 
-Any cool stuff that makes you a super part of a software development team
+- Yoga and Fitness (I'm a certified Personal Trainer and Yoga Teacher)
+- Bungee Jumping & Adventure Travel
+- Art & Design
