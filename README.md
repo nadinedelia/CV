@@ -13,7 +13,7 @@ Always looking forward to solving complex problems, I'm certain that there's no 
 
 ## Skills
 
-#### Organization
+#### Organization | Communication
 
 - Arranging events for companies like UBS Switzerland
 - Planning and directing multiple dance and art performances
