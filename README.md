@@ -67,16 +67,18 @@ BA(Hons) Media Science and Economics
 **Shoreditch Bar Group, London** (February 2019 – July 2019)    
 *Operations Manager*  
 
-**Miteinander GmbH Zurich, Switzerland** (2015 – 2020)   
+**Miteinander GmbH Zurich, Switzerland** (July 2015 – January 2020)   
 *Assistant Manager* 
 
 
 ## Hobbies
 
-Yoga and Fitness: *I'm a certified Personal Trainer and Yoga Teacher*
+**Yoga and Fitness:** 
+I'm a certified Personal Trainer and Yoga Teacher
 
-Bungee Jumping & Adventure Travel
+**Bungee Jumping & Adventure Travel**
 
-Art & Design
+**Art & Design**
 
-Learning new languages: *so far I speak 4.5 and hold the TEFL teaching diploma
+**Learning new languages:** 
+So far I speak 4.5 and hold the TEFL teaching diploma
