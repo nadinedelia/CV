@@ -1,11 +1,12 @@
 ## Nadine Loepfe
 
-Professional Dancer turned Junior Full Stack Developer
-Proud student of Makers Academy
+- Professional Dancer turned Junior Full Stack Developer
+- Proud student of Makers Academy
 
 #### Why Web Development?
 
-I'm an energized and creative individual who takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t. Always looking forward to solving complex problems, I'm certain that there's no better path for me to chose.
+I'm an energized and creative individual who takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t. 
+Always looking forward to solving complex problems, I'm certain that there's no better path for me to chose.
 
 
 ## Skills
@@ -24,7 +25,7 @@ I was recruiting new managers and staff and was also instructed in training them
 
 
 #### Creativity | Adaptability | Interdisciplinarity 
-#### => "Thinking outside the box"
+##### aka "Thinking outside the box"
 
 Merging my fascination of tech and science with the creative arts was always a path I wanted to follow. I like to find inspiration and ideas for problem solving within differend fields – related or not - to make the finished product as good as it can be.
 I'm a firm believer of the potential in gaining a variety of skills for vast improvement and invention.
@@ -49,7 +50,7 @@ Now I'd like to reverse this process to bring my creative thinking to software d
 - BA(Hons) Theatre Dance
 - 2.1
 
-One of the most prestigious dance universities in the whole of Europe, validated by Middlesex University.
+*One of the most prestigious dance universities in the whole of Europe, validated by Middlesex University.*
 
 
 #### University of Zurich, Switzerland (2013 – 2014)
