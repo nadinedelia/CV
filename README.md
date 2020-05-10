@@ -1,11 +1,14 @@
-## Nadine Loepfe
+# Nadine Loepfe
 
 *Professional Dancer turned Junior Full Stack Developer*
+
+
 
 #### Why Web Development?
 
 I'm an energized and creative individual who takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t. 
 Always looking forward to solving complex problems, I'm certain that there's no better path for me to chose.
+
 
 
 ## Skills
@@ -62,7 +65,7 @@ BA(Hons) Media Science and Economics
 **Shoreditch Bar Group, London** (February 2019 – July 2019)    
 *Operations Managers*  
 
-**Miteinander GmbH Zurich, Switzerland** (2015–2020)   
+**Miteinander GmbH Zurich, Switzerland** (2015 – 2020)   
 *Assistant Manager* 
 
 
