@@ -69,7 +69,7 @@ BA(Hons) Media Science and Economics
 
 ## Hobbies
 
-**Yoga and Fitness** 
+**Yoga and Fitness:** 
 I'm a certified Personal Trainer and Yoga Teacher
 
 **Bungee Jumping & Adventure Travel**
