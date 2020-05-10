@@ -22,6 +22,7 @@ Always looking forward to solving complex problems, I'm certain that there's no 
 
 
 #### Leadership
+##### aka keeping my calm and nerves at all times
 
 I'm experienced in leading and managing a team of up to 50 people.
 In my previous positions I was assisting the CEO, handling day to day business and instructed to improve and monitor sales.
