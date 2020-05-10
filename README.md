@@ -1,7 +1,12 @@
 ## Nadine Loepfe
 
-Professional Dancer and hospitality/events manager turned Junior Dev and proud student of the Makers Academy May 2020 cohort.
-I takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t and I'm always looking forward to solving complex problems.
+Professional Dancer turned Junior Full Stack Developer
+Proud student of Makers Academy
+
+#### Why Web Development?
+
+I'm an energized and creative individual who takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t. Always looking forward to solving complex problems, I'm certain that there's no better path for me to chose.
+
 
 ## Skills
 
@@ -19,7 +24,7 @@ I was recruiting new managers and staff and was also instructed in training them
 
 
 #### Creativity | Adaptability | Interdisciplinarity 
-### => "Thinking outside the box"
+#### => "Thinking outside the box"
 
 Merging my fascination of tech and science with the creative arts was always a path I wanted to follow. I like to find inspiration and ideas for problem solving within differend fields – related or not - to make the finished product as good as it can be.
 I'm a firm believer of the potential in gaining a variety of skills for vast improvement and invention.
