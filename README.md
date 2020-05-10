@@ -4,7 +4,7 @@
 
 
 
-#### Why Web Development?
+#### Why Software Development?
 
 I'm an energized and creative individual who takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t. 
 Always looking forward to solving complex problems, I'm certain that there's no better path for me to chose.
