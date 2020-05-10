@@ -1,7 +1,6 @@
 ## Nadine Loepfe
 
-- Professional Dancer turned Junior Full Stack Developer
-- Student of Makers Academy 
+*Professional Dancer turned Junior Full Stack Developer*
 
 #### Why Web Development?
 
