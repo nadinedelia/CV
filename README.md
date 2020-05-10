@@ -27,7 +27,7 @@ I was recruiting new managers and staff and was also instructed in training them
 #####     aka "Thinking outside the box"
 
 Merging my fascination of tech and science with the creative arts was always a path I wanted to follow. I like to find inspiration and ideas for problem solving within differend fields – related or not - to make the finished product as good as it can be.
-I'm a firm believer of the potential in gaining a variety of skills for vast improvement and invention.
+I'm a firm believer in the potential of gaining a variety of skills for vast improvement and invention.
 
 I was chosen in the second year of my degree as one of only 4 students to collaborate on a weekly basis with Central Saint Martins for a project called 'Design for Dance', which I took this as an opportunity to choreograph a piece based on geometrical shapes and algorithms.
 Following this path, I decided in my 3rd year to dedicate my dissertation piece to chemical reactions and formulas. 
