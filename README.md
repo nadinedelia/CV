@@ -12,6 +12,8 @@ https://www.floridaconstructionconnection.com/wp-content/uploads/2019/09/blog-hi
 [Experience](#experience) |
 [other cool stuff I do](#hobbies)
 
+## Who am I? 
+
 *Professional Dancer turned Junior Full Stack Developer*
 
 
