@@ -35,7 +35,7 @@ Always looking forward to solving complex problems, I'm certain that there's no 
 | **Bank Tech Test**    | a small test-driven program to interact with in the command line      | Ruby, RSpec            | [Github](https://github.com/nadinedelia/Bank-Tech-Test) |
 | **MakersBnB**           | A small AirBnB clone        | Javascript, Express, Node, PostgreSQL, HTML, CSS             | [Github](https://github.com/nadinedelia/MakersBnB)                                                                              |
 | **Chitter** | a small Twitter clone, staying true to its dark theme while reinventing the bird theme                               | Ruby, RSpec, PostgreSQL, HTML, CSS               | [Github](https://github.com/nadinedelia/Chitter)                                                                 |
-| **Zenbook**      | a Facebook clone, taking inspiration from stressed devs | Rails, Ruby, PostgreSQL, HTML, Javascript, CSS               | [Deployed](https://zenbook4u.herokuapp.com/)  [Github](https://github.com/nadinedelia/Zenbook/)
+| **Zenbook**      | a Facebook clone, taking inspiration from stressed devs | Rails, Ruby, PostgreSQL, HTML, Javascript, CSS               | [Deployed App](https://zenbook4u.herokuapp.com/)  [Github](https://github.com/nadinedelia/Zenbook/)
 
 
 ## Skills
@@ -114,3 +114,13 @@ I'm a certified Personal Trainer and Yoga Teacher
 
 **Learning new languages:** 
 So far I speak 4.5 and hold the TEFL teaching diploma
+
+
+
+<!-- Badges n stuff  -->
+
+[linkedin profile]: https://img.shields.io/badge/LinkedIn-%232A6AC7?style=for-the-badge&logo=linkedin
+[medium profile]: https://img.shields.io/badge/Medium_blog-%2312100E?style=for-the-badge&logo=medium&logoColor=white
+[email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
+[codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
+[github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
