@@ -65,6 +65,83 @@ Merging my fascination of tech and science with the creative arts was always a p
 I'm a firm believer in the potential of gaining a variety of skills for vast improvement and invention.
 
 
+## Tech Skills
+
+<table>
+  <thead>
+    <tr>
+      <th>Languages</th>
+      <th>Technologies</th>
+      <th>Testing Frameworks</th>
+      <th>Concepts</th>
+      <th>Tools</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Ruby</li>
+          <li>JavaScript</li>
+          <li>HTML5</li>
+          <li>CSS3</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>Rails</li>
+          <li>Sinatra</li>
+          <li>Node.js</li>
+          <li>Express</li>
+          <li>jQuery</li>
+          <li>React</li>
+          <li>PostgreSQL</li>
+          <li>TravisCI</li>
+          <li>Heroku</li>
+          <li>Surge</li>
+          <li>Netlify</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>RSpec</li>
+          <li>Capybara</li>
+          <li>Jasmine</li>
+          <li>Jest</li>
+          <li>Enzyme</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>XP/Agile methodology</li>
+          <li>TDD/BDD</li>
+          <li>Object Oriented Design</li>
+          <li>Remote working</li>
+          <li>Pair programming</li>
+          <li>Continuous Integration & Deployment</li>
+          <li>Git workflow</li>
+          <li>Code review</li>
+          <li>MVC Pattern</li>
+          <li>RESTful APIs</li>
+        </ul>
+      </td>
+      <td style="vertical-align: top">
+        <ul>
+          <li>VSCode</li>
+          <li>Atom</li>
+          <li>Git</li>
+          <li>Figma</li>
+          <li>Adobe Photoshop</li>
+          <li>Adobe Illustrator</li>
+          <li>Adobe InDesign</li>
+          <li>Linux (Ubuntu, Kali)</li>
+          <li>OSx</li>
+        </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
+
 
 ## Education
 
