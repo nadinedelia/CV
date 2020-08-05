@@ -2,12 +2,15 @@
 
 <div align="center">
 
+[![employment status]](
+https://www.floridaconstructionconnection.com/wp-content/uploads/2019/09/blog-hire-me-meme.jpg)
+
 ### Navigation 
 
 [Projects](#projects) |  [Skills](#skills) |
 [Education](#education) |
 [Experience](#experience) |
-[Other cool stuff I do](#hobbies)
+[other cool stuff I do](#hobbies)
 
 *Professional Dancer turned Junior Full Stack Developer*
 
@@ -201,3 +204,5 @@ So far I speak 4.5 and hold the TEFL teaching diploma
 [email]: https://img.shields.io/badge/Email-%23D14836?style=for-the-badge&logo=gmail&logoColor=white
 [codewars profile]: https://img.shields.io/badge/CodeWars-%23AD2C27?style=for-the-badge&logo=codewars&logoColor=white
 [github profile]: https://img.shields.io/badge/GitHub-%23181717?style=for-the-badge&logo=github&logoColor=white
+
+[employment status]: https://img.shields.io/badge/Employment%20status-Will%20code%20for%20food-green?style=flat&logo=appveyor
