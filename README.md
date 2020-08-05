@@ -197,7 +197,11 @@ I'm a certified Personal Trainer and Yoga Teacher
 **Learning new languages:** 
 So far I speak 4.5 and hold the TEFL teaching diploma
 
+## Things I'm glad I did
 
+- I was volunteering in a refugee camp in Presevo, Serbia in Winter 2016
+
+- I did a 10-day silent Vipassana Meditation in 2017
 
 <!-- Badges n stuff  -->
 
