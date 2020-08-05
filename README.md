@@ -16,9 +16,9 @@ https://www.floridaconstructionconnection.com/wp-content/uploads/2019/09/blog-hi
 
 *Professional Dancer turned Junior Full Stack Developer*
 
+A proactive, energised, and creative **Full Stack Software Developer** by day. A dance, music, fitness and pizza aficionado by night.
 
-I'm an energized and creative individual who takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t. 
-Always looking forward to solving complex problems, I'm certain that there's no better path for me to chose.
+As I take genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t, I decided to study at Makers Academy, one of Europe's leading coding bootcamps.
 
 ### Where to stalk me
 
