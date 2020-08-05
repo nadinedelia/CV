@@ -1,14 +1,41 @@
 # Nadine Loepfe
 
+<div align="center">
+
+### Navigation 
+
+[Projects](#projects) |  [Skills](#skills) |
+[Education](#education) |
+[Experience](#experience) |
+[Other cool stuff I do](#hobbies)
+
 *Professional Dancer turned Junior Full Stack Developer*
 
-
-
-#### Why Software Development?
 
 I'm an energized and creative individual who takes genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t. 
 Always looking forward to solving complex problems, I'm certain that there's no better path for me to chose.
 
+### Where to stalk me
+
+[![LinkedIn Profile]](https://www.linkedin.com/in/nadine-loepfe)
+[![Medium Profile]](https://medium.com/@nadine.loe)
+[![Email]](mailto:nadine.loepfe@gmail.com)
+[![CodeWars Profile]](https://www.codewars.com/users/nadinedelia)
+[![GitHub Profile]](https://github.com/nadinedelia)
+
+</div>
+
+
+## Projects
+
+
+| Project         | Description                                                                                         | Tech                                | Show it to me, baby!                                                                                                         |
+| ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
+| **Vim Bishops Bike Adventures**      | Final Project at Makers Academy. A RPG style game in Arcade/80's optic to learn VIM commands in a playful way.                                 | Express, React, Redux, Node, Jest, CSS | [Deployed App](https://vimvincible.netlify.app/) [Frontend Code](https://github.com/nadinedelia/Invimcible-FrontEnd) [Backend API](https://github.com/tristanlangford/invimcible_back_end)            |
+| **Bank Tech Test**    | a small test-driven program to interact with in the command line      | Ruby, RSpec            | [Github](https://github.com/nadinedelia/Bank-Tech-Test) |
+| **MakersBnB**           | A small AirBnB clone        | Javascript, Express, Node, PostgreSQL, HTML, CSS             | [Github](https://github.com/nadinedelia/MakersBnB)                                                                              |
+| **Chitter** | a small Twitter clone, staying true to its dark theme while reinventing the bird theme                               | Ruby, RSpec, PostgreSQL, HTML, CSS               | [Github](https://github.com/nadinedelia/Chitter)                                                                 |
+| **Zenbook**      | a Facebook clone, taking inspiration from stressed devs | Rails, Ruby, PostgreSQL, HTML, Javascript, CSS               | [Deployed](https://zenbook4u.herokuapp.com/)  [Github](https://github.com/nadinedelia/Zenbook/)
 
 
 ## Skills
