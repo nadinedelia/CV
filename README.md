@@ -41,6 +41,7 @@ As I take genuine pleasure in dissecting ideas and concepts to examine what work
 | **MakersBnB**           | A small AirBnB clone redesigned       | Javascript, Express, Node, PostgreSQL, HTML, CSS             | [Github](https://github.com/nadinedelia/MakersBnB)                                                                              |
 | **Chitter** | a small Twitter clone, staying true to its dark color scheme while reinventing the bird theme                               | Ruby, RSpec, PostgreSQL, HTML, CSS               | [Github](https://github.com/nadinedelia/Chitter)                                                                 |
 | **Zenbook**      | a Facebook clone, taking inspiration from stressed devs | Rails, Ruby, PostgreSQL, HTML, Javascript, CSS               | [Deployed App](https://zenbook4u.herokuapp.com/)  [Github](https://github.com/nadinedelia/Zenbook/)
+| **The Corona Times**      | a website summarising the news | pure Vanilla JS and some API fun          | [Deployed App](https://http://coronatimes.surge.sh/)  [Github](https://github.com/nadinedelia/news-summary-challenge/)
 
 
 ## Skills
