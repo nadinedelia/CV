@@ -190,13 +190,13 @@ BA(Hons) Media Science and Economics
 ## Hobbies
 
 **Yoga and Fitness:** 
-I'm a certified Personal Trainer and Yoga Teacher. During Lockdown, I was giving free Yoga and Exercises classes to keep the spirits high in my community.
+I'm a certified Personal Trainer and Yoga Teacher. During lockdown, I was giving free yoga and exercises classes to keep the spirits high in my community.
 
 **Bungee Jumping & Adventure Travel**
-I completed the worlds highest bungee jump of a bridge in 2019.
+Fun fact: I completed the worlds highest bungee jump of a bridge in 2019.
 
 **Art & Design**
-From poetry nights to wandering around the Tate or seeing live performances in the Theatre – if need an accompaniment, I'm happy to join.
+From poetry nights to wandering around the Tate or seeing live performances in the theatre – if you're in need an accompaniment, I'm happy to join.
 
 **Learning new languages:** 
 So far I speak 4.5 and hold the TEFL teaching diploma
