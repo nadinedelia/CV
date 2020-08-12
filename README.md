@@ -208,7 +208,6 @@ So far I speak 4.5 and hold the TEFL teaching diploma
 
 - I did a 10-day silent Vipassana Meditation in 2017
 
-- I hitchhiked through pretty much all of Europe 
 
 
 <!-- Badges n stuff  -->
