@@ -87,6 +87,7 @@ I'm a firm believer in the potential of gaining a variety of skills for vast imp
     <tr>
       <td style="vertical-align: top">
         <ul>
+          <li>Python</li>
           <li>Ruby</li>
           <li>JavaScript</li>
           <li>HTML5</li>
@@ -95,12 +96,14 @@ I'm a firm believer in the potential of gaining a variety of skills for vast imp
       </td>
       <td style="vertical-align: top">
         <ul>
+          <li>Django</li>
           <li>Rails</li>
           <li>Sinatra</li>
           <li>Node.js</li>
           <li>Express</li>
           <li>jQuery</li>
           <li>React</li>
+          <li>Redux</li>
           <li>PostgreSQL</li>
           <li>TravisCI</li>
           <li>Heroku</li>
