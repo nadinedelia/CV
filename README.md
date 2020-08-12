@@ -51,15 +51,14 @@ As I take genuine pleasure in dissecting ideas and concepts to examine what work
 ##### ...and a healthy dose of multitasking
 
 As a hospitality and event manager, communication, organisation and team work is key. To create something special which will have a legacy, it's important that everyone is on the same page.
-I'm grateful to have had experience in a variety of fields with an intense amount of different people, which all taught me valuable skills. During my career, I was arranging events for companies like UBS Switzerland, planning and directing multiple dance and art performances and working closely with artists and commitees to bring an event to life.
+I'm grateful to have had experience in a variety of fields with an intense amount of different people, which all taught me valuable skills. During my career, I was arranging events for companies like UBS Switzerland, planning and directing multiple dance and art performances and working closely with artists and committees to bring an event to life.
 
 As a Personal Trainer, I perfected my communication skills, was very self-organised and was working with clients to assess their needs to give them a specialised and tailored experience.
 
 #### Leadership
 ##### aka keeping my calm and nerves at all times
 
-I had my first supervisor job at the age of 20, leading a team where everyone was older than me. From there, it took me years to perfect the way I deal with people and to be the best leader I can possibly be. I strive to find the bliss point where the interests of the company and the employees are simultanously met and where everyone feels heard and important.
-Now I can proudly say that I'm experienced in leading and managing a team of up to 200 people. During my time as an operations manager, I was overseeing 32 bars in Shoreditch, as well as assisting the CEO, handling day to day business and improving and monitor sales. I was recruiting new managers and staff and was also instructed in training them. This and other roles taught me a lot about how to interact with people and how to guide them, and how to just stay still, breathe and think calmly, even in stressful situations.
+I had my first supervisor job at the age of 20, leading a team where everyone was older than me. From there, it took me years to perfect the way I deal with people and to be the best leader I can possibly be. I strive to find the bliss point where the interests of the company and the employees are simultanously met and where everyone feels heard and important. During my time as an operations manager, I was overseeing more than 20 bars in Shoreditch, as well as assisting the CEO, handling day to day business and improving and monitor sales. I was recruiting new managers and staff and was also instructed in training them. This and other roles taught me a lot about how to interact with people and how to guide them, and how to just stay still, breathe and think calmly, even in stressful situations.
 
 
 #### Creativity | Adaptability | Interdisciplinarity 
@@ -208,6 +207,9 @@ So far I speak 4.5 and hold the TEFL teaching diploma
 - I was volunteering in a refugee camp in Presevo, Serbia in Winter 2016
 
 - I did a 10-day silent Vipassana Meditation in 2017
+
+- I hitchhiked through pretty much all of Europe 
+
 
 <!-- Badges n stuff  -->
 
