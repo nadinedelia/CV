@@ -14,13 +14,15 @@ https://www.floridaconstructionconnection.com/wp-content/uploads/2019/09/blog-hi
 
 ## Who am I? 
 
+www.nadine-loe.com
+
 *Professional Dancer turned Junior Full Stack Developer*
 
-A proactive, energised, and creative **Full Stack Software Developer** by day. A dance, music, fitness and pizza aficionado by night.
+A proactive, energised, and creative **Full Stack Software Developer** by day. A dance, music, fitness and pizza professional by night.
 
 As I take genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t, I decided to study at Makers Academy, one of Europe's leading coding bootcamps.
 
-### Where to stalk me
+### Where to find me
 
 [![LinkedIn Profile]](https://www.linkedin.com/in/nadine-loepfe)
 [![Medium Profile]](https://medium.com/@nadine.loe)
@@ -53,6 +55,7 @@ As I take genuine pleasure in dissecting ideas and concepts to examine what work
 - Planning and directing multiple dance and art performances
 - working closely with artists and organisation commitees to bring an event to life
 
+as a Personal Trainer, I perfected my communication skills, was very self-organised and was working with clients to assess their needs to give them a specialised and tailored experience.
 
 #### Leadership
 ##### aka keeping my calm and nerves at all times
@@ -189,7 +192,7 @@ BA(Hons) Media Science and Economics
 ## Hobbies
 
 **Yoga and Fitness:** 
-I'm a certified Personal Trainer and Yoga Teacher
+I'm a certified Personal Trainer and Yoga Teacher. During Lockdown, I was giving free Yoga and Exercises classes to keep the spirits high in my community.
 
 **Bungee Jumping & Adventure Travel**
 
