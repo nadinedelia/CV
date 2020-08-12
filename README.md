@@ -195,7 +195,7 @@ I'm a certified Personal Trainer and Yoga Teacher. During lockdown, I was giving
 Fun fact: I completed the worlds highest bungee jump of a bridge in 2019.
 
 **Art & Design**
-From poetry nights to wandering around the Tate or seeing live performances in the theatre – if you're in need an accompaniment, I'm happy to join.
+From poetry nights to wandering around the Tate or seeing live performances in the theatre – if you're in need of an accompaniment, I'm happy to join.
 
 **Learning new languages:** 
 So far I speak 4.5 and hold the TEFL teaching diploma
