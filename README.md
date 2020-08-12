@@ -51,11 +51,10 @@ As I take genuine pleasure in dissecting ideas and concepts to examine what work
 #### Organization | Communication | Team work
 ##### ...and a healthy dose of multitasking
 
-- Arranging events for companies like UBS Switzerland
-- Planning and directing multiple dance and art performances
-- working closely with artists and organisation commitees to bring an event to life
+As a hospitality and event manager, communication, organisation and team work is key. To create something special which will have a legacy, it's important that everyone is on the same page.
+I'm grateful to have had experience in a variety of fields with an intense amount of different people, which all taught me valuable skills. During my career, I was arranging events for companies like UBS Switzerland, planning and directing multiple dance and art performances and working closely with artists and organisation commitees to bring an event to life.
 
-as a Personal Trainer, I perfected my communication skills, was very self-organised and was working with clients to assess their needs to give them a specialised and tailored experience.
+As a Personal Trainer, I perfected my communication skills, was very self-organised and was working with clients to assess their needs to give them a specialised and tailored experience.
 
 #### Leadership
 ##### aka keeping my calm and nerves at all times
