@@ -18,7 +18,7 @@ www.nadine-loe.com
 
 *Professional Dancer turned Junior Full Stack Developer*
 
-A proactive, energised, and creative **Full Stack Software Developer** by day. A dance, music, fitness and pizza professional by night.
+A proactive, energized, and creative **Full Stack Software Developer** by day. A dance, music, fitness, and pizza professional by night.
 
 As I take genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t, I decided to study at Makers Academy, one of Europe's leading coding bootcamps.
 
@@ -36,10 +36,10 @@ As I take genuine pleasure in dissecting ideas and concepts to examine what work
 ## Projects
 
 
-| Project         | Description                                                                                         | Tech                                | Show it to me, baby!                                                                                                         |
+| Project         | Description                                                                                         | Tech                                | Try it                                                                                                         |
 | ----------------------- | ----------------------------------------------------------------------------------------------- | ----------------------------------- | ------------------------------------------------------------------------------------------------------------------------ |
-| **Vim Bishops Bike Adventures**      | Final Project at Makers Academy. A RPG style game in Arcade/80's optic to learn VIM commands in a playful way.                                 | Express, React, Redux, Node, Jest, CSS | [Deployed App](https://vimvincible.netlify.app/) [Frontend Code](https://github.com/nadinedelia/Invimcible-FrontEnd) [Backend API](https://github.com/tristanlangford/invimcible_back_end)            |
-| **Bank Tech Test**    | a small test-driven program to interact with in the command line    | Ruby, RSpec            | [Github](https://github.com/nadinedelia/Bank-Tech-Test) |
+| **Vim Bishops Bike Adventures**      | Final Project at Makers Academy. An RPG style game in Arcade/80's optic to learn VIM commands playfully.                                 | Express, React, Redux, Node, Jest, CSS | [Deployed App](https://vimvincible.netlify.app/) [Frontend Code](https://github.com/nadinedelia/Invimcible-FrontEnd) [Backend API](https://github.com/tristanlangford/invimcible_back_end)            |
+| **Bank Tech Test**    | a small test-driven program to interact within the command line    | Ruby, RSpec            | [Github](https://github.com/nadinedelia/Bank-Tech-Test) |
 | **MakersBnB**           | A small AirBnB clone redesigned       | Javascript, Express, Node, PostgreSQL, HTML, CSS             | [Github](https://github.com/nadinedelia/MakersBnB)                                                                              |
 | **Chitter** | a small Twitter clone, staying true to its dark color scheme while reinventing the bird theme                               | Ruby, RSpec, PostgreSQL, HTML, CSS               | [Github](https://github.com/nadinedelia/Chitter)                                                                 |
 | **Zenbook**      | a Facebook clone, taking inspiration from stressed devs | Rails, Ruby, PostgreSQL, HTML, Javascript, CSS               | [Deployed App](https://zenbook4u.herokuapp.com/)  [Github](https://github.com/nadinedelia/Zenbook/)
@@ -47,26 +47,26 @@ As I take genuine pleasure in dissecting ideas and concepts to examine what work
 
 ## Skills
 
-#### Organization | Communication | Team work
+#### Organization | Communication | Teamwork
 ##### ...and a healthy dose of multitasking
 
-As a hospitality and event manager, communication, organisation and team work is key. To create something special which will have a legacy, it's important that everyone is on the same page.
-I'm grateful to have had experience in a variety of fields with an intense amount of different people, which all taught me valuable skills. During my career, I was arranging events for companies like UBS Switzerland, planning and directing multiple dance and art performances and working closely with artists and committees to bring an event to life.
+Communication, organization, and teamwork are key ingredients to be a successful hospitality and event manager. To create something special which will have a legacy, everyone must be on the same page.
+I'm grateful to have had experience in a variety of fields with an intense amount of different people, which all taught me valuable skills. During my career, I was arranging events for companies like UBS Switzerland, planning and directing multiple dance and art performances, and working closely with artists and committees to bring an event to life.
 
-As a Personal Trainer, I perfected my communication skills, was very self-organised and was working with clients to assess their needs to give them a specialised and tailored experience.
+As a Personal Trainer, I perfected my communication skills, was very self-organized and was working with clients to assess their needs to give them a specialized and tailored experience.
 
 #### Leadership
 ##### aka keeping my calm and nerves at all times
 
-I had my first supervisor job at the age of 20, leading a team where everyone was older than me. From there, it took me years to perfect the way I deal with people and to be the best leader I can possibly be. I strive to find the bliss point where the interests of the company and the employees are simultanously met and where everyone feels heard and important. During my time as an operations manager, I was overseeing more than 20 bars in Shoreditch, as well as assisting the CEO, handling day to day business and improving and monitor sales. I was recruiting new managers and staff and was also instructed in training them. This and other roles taught me a lot about how to interact with teams and employees, and how to just stay still, breathe and think calmly, even in stressful situations.
+I had my first supervisor job at the age of 20, leading a team where everyone was older than me. From there, it took me years to perfect the way I deal with people, to be the best leader I can be. I strive to find the bliss point where the interests of the company and the employees are simultaneously met and where everyone feels heard and important. During my time as an operations manager, I was overseeing more than 20 bars in Shoreditch, as well as assisting the CEO, handling day to day business, and improving and monitor sales. I was recruiting new managers and staff and was also instructed in training them. This and other roles taught me a lot about how to interact with teams and employees, and how to just stay still, breathe and think calmly, even in stressful situations.
 
 
 #### Creativity | Adaptability | Interdisciplinarity 
 ##### aka "Thinking outside the box"
 
-New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked around the world with huge diversity of people in a vast variety of field. There is always a way to connect.
+New environments, new languages, new teams, new challenges. None of these are a problem, only opportunities. I have worked around the world with a huge diversity of people in a vast variety of fields. There is always a way to connect.
 
-Merging my fascination of tech and science with the creative arts was always a path I wanted to follow. I like to find inspiration and ideas for problem solving within differend fields – related or not - to make the finished product as good as it can be.
+Merging my fascination with tech and science with the creative arts was always a path I wanted to follow. I like to find inspiration and ideas for problem-solving within different fields – related or not - to make the finished product as good as it can be.
 I'm a firm believer in the potential of gaining a variety of skills for vast improvement and invention.
 
 
@@ -123,7 +123,7 @@ I'm a firm believer in the potential of gaining a variety of skills for vast imp
         <ul>
           <li>XP/Agile methodology</li>
           <li>TDD/BDD</li>
-          <li>Object Oriented Design</li>
+          <li>Object-Oriented Design</li>
           <li>Remote working</li>
           <li>Pair programming</li>
           <li>Continuous Integration & Deployment</li>
@@ -169,7 +169,7 @@ I'm a firm believer in the potential of gaining a variety of skills for vast imp
 *One of the most prestigious dance universities in the whole of Europe, validated by Middlesex University.*
 
 **Fun Fact:**
-I was chosen in the second year of my degree as one of only 4 students to collaborate on a weekly basis with Central Saint Martins for a project called 'Design for Dance', which I took this as an opportunity to choreograph a piece based on geometrical shapes and algorithms.
+I was chosen in the second year of my degree as one of only 4 students to collaborate weekly with Central Saint Martins for a project called 'Design for Dance', which I took this as an opportunity to choreograph a piece based on geometrical shapes and algorithms.
 Following this path, I decided in my 3rd year to dedicate my dissertation piece to chemical reactions and formulas. 
 Now I'd like to reverse this process to bring my creative thinking to software development.
 
@@ -191,13 +191,13 @@ BA(Hons) Media Science and Economics
 ## Hobbies
 
 **Yoga and Fitness:** 
-I'm a certified Personal Trainer and Yoga Teacher. During lockdown, I was giving free yoga and exercises classes to keep the spirits high in my community.
+I'm a certified Personal Trainer and Yoga Teacher. During the lockdown, I was giving free yoga and exercise classes to keep the spirits high in my community.
 
 **Bungee Jumping & Adventure Travel**
-Fun fact: I completed the worlds highest bungee jump of a bridge in 2019.
+Fun fact: I completed the world's highest bungee jump off a bridge in 2019.
 
 **Art & Design**
-From poetry nights to wandering around the Tate or seeing live performances in the theatre – if you're in need of an accompaniment, I'm happy to join.
+From poetry nights to wandering around the Tate or seeing live performances in the theatre – if you require an accompaniment, I'm happy to join.
 
 **Learning new languages:** 
 So far I speak 4.5 and hold the TEFL teaching diploma
