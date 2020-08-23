@@ -18,7 +18,7 @@ www.nadine-loe.com
 
 *Professional Dancer turned Junior Full Stack Developer*
 
-A proactive, energized, and creative **Full Stack Software Developer** by day. A dance, music, fitness, and pizza professional by night.
+A proactive, energized, and creative **Full Stack Software Developer** by day. A dance and fitness professional by night.
 
 As I take genuine pleasure in dissecting ideas and concepts to examine what works and what doesn’t, I decided to study at Makers Academy, one of Europe's leading coding bootcamps.
 
