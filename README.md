@@ -207,6 +207,8 @@ So far I speak 4.5 and hold the TEFL teaching diploma
 
 - I did a 10-day silent Vipassana Meditation in 2017
 
+– I lived in the biggest and most famous flatshare of Zurich (with 37 people)
+
 
 
 <!-- Badges n stuff  -->
