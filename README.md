@@ -192,10 +192,10 @@ BA(Hons) Media Science and Economics
 **Yoga and Fitness:** 
 I'm a certified Personal Trainer and Yoga Teacher. During the lockdown, I was giving free yoga and exercise classes to keep the spirits high in my community.
 
-**Bungee Jumping & Adventure Travel**
+**Bungee Jumping & Adventure Travel:**
 Fun fact: I completed the world's highest bungee jump off a bridge in 2019.
 
-**Art & Design**
+**Art & Design:**
 From poetry nights to wandering around the Tate or seeing live performances in the theatre – if you require an accompaniment, I'm happy to join.
 
 **Learning new languages:** 
