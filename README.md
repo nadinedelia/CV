@@ -183,7 +183,7 @@ BA(Hons) Media Science and Economics
 **Shoreditch Bar Group, London** (February 2019 – July 2019)    
 *Operations Manager*  
 
-**Miteinander GmbH Zurich, Switzerland** (July 2015 – January 2020)   
+**Miteinander GmbH Zurich, Switzerland** (July 2016 – January 2020)   
 *Assistant Manager* 
 
 
